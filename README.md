@@ -41,7 +41,7 @@ Detects7 is a web + API demo and research prototype for detecting seven safety-r
 | Akash Kumar |           [XynaxDev](https://github.com/XynaxDev) | Project lead — directs model development, tunes experiments and hyperparameters, and manages API integration for deployment. |
 | Lavnish     |             [lavn1sh](https://github.com/lavn1sh) | Frontend & integration engineer — builds the web interface and connects the ML outputs to the UI and backend.                |
 | Nishtha     | [niishthaaaaaa](https://github.com/niishthaaaaaa) | Model engineer — runs training experiments, prepares and curates the dataset, and iterates on model performance.             |
-| Himanshi    |   [Himanshi1531](https://github.com/Himanshi1531) | Research lead — surveys literature, recommends improvements, and helps shape experiment design.                              |
+| Himanshi    |   [Himanshi1531](https://github.com/Himanshi1531) | Himanshi | [Himanshi1531](https://github.com/Himanshi1531) | AI/ML researcher — performed literature review on modern object detection models, designed and analyzed experiments, evaluated model performance using confusion matrices and F1 metrics, and proposed improvements for training efficiency and accuracy. |
 
 *App name:* *Detects7* — Team: **Code Enforcers**
 
